@@ -1,0 +1,8918 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-11 01:55:09 --> Could not find the language line "apply"
+ERROR - 2021-09-11 01:55:09 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:27:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:27:54 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:46 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:30:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:30:48 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:30:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:31:00 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:01:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 02:31:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:31:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:31:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:31:33 --> Could not find the language line "apply"
+ERROR - 2021-09-11 02:31:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:02:05 --> Could not find the language line "amont"
+ERROR - 2021-09-11 08:02:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 02:32:07 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:32:07 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:32:07 --> Could not find the language line "apply"
+ERROR - 2021-09-11 02:32:07 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:32:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:09:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:09:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 02:39:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:41:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:41:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:41:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:42:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:43:09 --> Could not find the language line "apply"
+ERROR - 2021-09-11 02:43:09 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 02:46:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:46:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:47:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "apply"
+ERROR - 2021-09-11 02:47:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 02:47:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:47:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 02:48:09 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:20:59 --> Could not find the language line ""
+ERROR - 2021-09-11 02:54:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:25:57 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 08:27:03 --> Could not find the language line ""
+ERROR - 2021-09-11 08:27:11 --> Could not find the language line "amont"
+ERROR - 2021-09-11 08:27:13 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:27:47 --> Could not find the language line ""
+ERROR - 2021-09-11 02:58:26 --> Could not find the language line "apply"
+ERROR - 2021-09-11 02:58:26 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:28:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:28:34 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:29:32 --> Could not find the language line "amont"
+ERROR - 2021-09-11 08:29:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 02:59:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:31:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:31:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:31:56 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:33:35 --> Could not find the language line "form_validation_teachercode"
+ERROR - 2021-09-11 08:34:01 --> Could not find the language line "form_validation_teachercode"
+ERROR - 2021-09-11 08:34:03 --> Could not find the language line "form_validation_teachercode"
+ERROR - 2021-09-11 08:40:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:40:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 08:40:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line "boy"
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:02 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\alumni.php 352
+ERROR - 2021-09-11 08:42:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\alumni.php 352
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line "girl"
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line ""
+ERROR - 2021-09-11 08:42:55 --> Could not find the language line ""
+ERROR - 2021-09-11 03:13:01 --> Could not find the language line "apply"
+ERROR - 2021-09-11 03:13:01 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:13:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:43:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 08:45:09 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 08:45:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 08:45:38 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 08:49:27 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 03:19:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:49:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 08:49:44 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:49:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:49:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 08:51:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:51:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:51:26 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 08:51:51 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 08:52:45 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 08:53:05 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 03:25:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:26:09 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:26:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:56:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 03:26:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:56:50 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:56:50 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:56:56 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:56:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:56:57 --> Could not find the language line "amont"
+ERROR - 2021-09-11 08:56:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:57:03 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:03 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:57:06 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:06 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:57:06 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:06 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:57:12 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:57:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:57:49 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:57:49 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:12 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:58:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 08:58:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 08:58:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 08:58:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:30 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 08:58:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:30 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 08:58:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "method"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "bank"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:58:50 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:58:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 08:58:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 03:30:54 --> Could not find the language line "apply"
+ERROR - 2021-09-11 03:30:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:30:54 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:30:58 --> Could not find the language line "apply"
+ERROR - 2021-09-11 03:30:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:30:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:31:11 --> Could not find the language line "apply"
+ERROR - 2021-09-11 03:31:11 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:31:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:01:44 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:01:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:01:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:01:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:01:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:01:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:02:02 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:03:40 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:03:40 --> Query error: Duplicate entry 'mohanram' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'mohanram', '2021-09-11 09:03:40', '117731', 1)
+ERROR - 2021-09-11 09:03:40 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:03:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 09:03:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:03:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:06 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:34:08 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:34:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:04:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:04:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 03:35:43 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:07:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 09:07:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:07:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:07:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 09:08:00 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:08:00 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:08:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:08:43 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Application.php 339
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:06 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:09:10 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:09:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 09:09:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:09:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:09:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 03:39:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:09:41 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:10:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:10:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:13 --> Severity: Warning --> strpos(): Empty needle C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\leave\controllers\Approve.php 274
+ERROR - 2021-09-11 09:12:50 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:12:50 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:12:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:14:05 --> Could not find the language line "apply"
+ERROR - 2021-09-11 09:14:05 --> Could not find the language line "used"
+ERROR - 2021-09-11 03:45:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:15:54 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 09:16:05 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:16:05 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:16:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "apply"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 03:47:23 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:47:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 03:47:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:18:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 09:18:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:19:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:19:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 09:19:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 09:19:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 09:19:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:19:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:20:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:14 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:20:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:14 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:20:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:20:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:20:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:34 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:20:34 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:20:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:20:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:20:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 09:20:41 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:20:57 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:20:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:21:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:21:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:21:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:21:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:21:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:21:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:21:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:21:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:21:45 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:22:04 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:22:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:22:11 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:22:11 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:22:14 --> Could not find the language line "method"
+ERROR - 2021-09-11 09:22:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:22:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:22:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:22:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:22:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:22:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:22:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:22:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:22:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:22:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:22:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:22:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:22:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 311
+ERROR - 2021-09-11 09:22:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 324
+ERROR - 2021-09-11 09:22:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:22:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 516
+ERROR - 2021-09-11 09:23:10 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 09:23:10 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 03:54:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:24:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:24:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:24:32 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:24:32 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:24:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:25:10 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:25:11 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:29:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:31:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:32:02 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:32:02 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:32:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:32:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:32:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:32:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:32:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:33:07 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:33:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:33:40 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:33:40 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:33:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:33:45 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:35:24 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:35:24 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:36:21 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:36:21 --> Query error: Duplicate entry 'dudaram' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'dudaram', '2021-09-11 09:36:21', '117731', 1)
+ERROR - 2021-09-11 09:36:21 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:36:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:37:00 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:37:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:37:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:38:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:38:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:39:41 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:39:41 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:40:12 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:40:12 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:40:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:40:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:40:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:41:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:41:08 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:41:17 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:41:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:42:37 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:42:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:42:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:42:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:42:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 09:42:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 09:43:18 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:43:18 --> Could not find the language line "number"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:13:34 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 04:13:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 09:43:43 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:43:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:43:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:44:06 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:44:06 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:44:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:45:23 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:45:24 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:45:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:45:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:46:03 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:46:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:46:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:46:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:47:04 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:47:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:47:32 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:48:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:48:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:49:14 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:49:15 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:49:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:49:30 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:49:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:51:13 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:51:13 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:51:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:51:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:51:35 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:51:35 --> Query error: Duplicate entry 'ashok' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'ashok', '2021-09-11 09:51:35', '117731', 1)
+ERROR - 2021-09-11 09:51:35 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:51:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:52:08 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:52:09 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:52:10 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:52:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:52:14 --> Could not find the language line "number"
+ERROR - 2021-09-11 04:22:29 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:53:14 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:53:15 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:53:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:53:59 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:17 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:17 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:55:18 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:55:45 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 09:55:45 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 09:55:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:56:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:56:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:57:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:57:41 --> Could not find the language line "amont"
+ERROR - 2021-09-11 09:57:41 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\controllers\Invoice.php 954
+ERROR - 2021-09-11 09:57:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:58:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 09:58:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "bank"
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:58:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "postal"
+ERROR - 2021-09-11 09:59:00 --> Could not find the language line "receive"
+ERROR - 2021-09-11 09:59:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:00:03 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:00:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:01:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:57 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:01:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:03:22 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 10:03:25 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:03:25 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:03:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:04:48 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:04:57 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:06:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:06:31 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:06:55 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:06:55 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:06:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:07:07 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:07 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:07:08 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:07:59 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:07:59 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\controllers\Invoice.php 954
+ERROR - 2021-09-11 10:08:00 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:10:36 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:10:36 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:10:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:10:51 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:51 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:10:52 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:12:13 --> Could not find the language line "mark_total"
+ERROR - 2021-09-11 10:12:13 --> Could not find the language line "mark_obtain"
+ERROR - 2021-09-11 10:12:13 --> Could not find the language line "option"
+ERROR - 2021-09-11 10:13:07 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:43:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 04:44:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:14:18 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:14:18 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:14:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:44:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:15:37 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:16:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:16:01 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:16:19 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:47:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:17:20 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:17:21 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:28 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:17:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:17:29 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:46 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:51 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:17:51 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:53 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:17:56 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "postal"
+ERROR - 2021-09-11 10:18:02 --> Could not find the language line "receive"
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:18:04 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:18:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:18:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:18:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:18:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:18:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 04:48:05 --> Could not find the language line "holidays"
+ERROR - 2021-09-11 04:48:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:19:27 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:19:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:19:46 --> Query error: Table 'admin_vbr.account_transactions_details' doesn't exist - Invalid query: delete from account_transactions_details where transaction_id in (select id from account_transactions where invoice_id= 67482)
+ERROR - 2021-09-11 10:19:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:49:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:49:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:20:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:07 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:12 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:13 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:20:24 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:20:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:20:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 04:51:24 --> 404 Page Not Found: ../modules/student/controllers/Student/0
+ERROR - 2021-09-11 10:21:29 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:21:29 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:21:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:21:31 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:21:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:21:36 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:21:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:51:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:51:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:21:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 04:52:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:52:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:52:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:22:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:23:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "apply"
+ERROR - 2021-09-11 04:53:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:23:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:25:09 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:25:28 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:25:28 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:25:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:25:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:26:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:26:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:27:27 --> Could not find the language line "amont"
+ERROR - 2021-09-11 10:27:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:28:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:28:03 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:29:57 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:29:57 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:29:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:30:40 --> Could not find the language line "number"
+ERROR - 2021-09-11 05:01:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:07 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:01:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:01:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:02:23 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:35:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:35:19 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:35:34 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:35:34 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:35:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:08:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 10:38:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "bank"
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "number"
+ERROR - 2021-09-11 10:38:41 --> Could not find the language line "number"
+ERROR - 2021-09-11 05:09:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:39:15 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:39:15 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:39:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:10:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:10:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:10:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:42:42 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 10:42:42 --> Query error: Duplicate entry 'bhanwarsingh' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'bhanwarsingh', '2021-09-11 10:42:42', '117731', 1)
+ERROR - 2021-09-11 10:42:43 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 10:42:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:12:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:43:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 10:43:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 05:14:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:44:40 --> Could not find the language line "registration"
+ERROR - 2021-09-11 10:44:45 --> Could not find the language line "confirm"
+ERROR - 2021-09-11 10:44:45 --> Could not find the language line "confirm"
+ERROR - 2021-09-11 10:46:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 10:46:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 10:46:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 10:46:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 10:48:00 --> Could not find the language line "type_id"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:23:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:26:57 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:27:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 10:57:26 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 05:27:29 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:27:30 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:59:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 10:59:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 10:59:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 05:29:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:00:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 11:00:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 11:03:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 11:03:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 11:04:26 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:04:26 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:04:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:05:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 11:05:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 11:05:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 11:05:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 05:36:37 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:36:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:36:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:36:42 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:36:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 11:06:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 05:36:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:37:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:08:07 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:08:07 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:08:09 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:08:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:08:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:38:18 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:38:18 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:38:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:38:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:38:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:38:42 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:38:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 11:08:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:09:18 --> Could not find the language line ""
+ERROR - 2021-09-11 11:09:18 --> Could not find the language line ""
+ERROR - 2021-09-11 11:09:18 --> Could not find the language line ""
+ERROR - 2021-09-11 11:09:18 --> Could not find the language line ""
+ERROR - 2021-09-11 11:09:18 --> Could not find the language line ""
+ERROR - 2021-09-11 05:39:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:09:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:40:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:41:18 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:41:18 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:41:43 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:41:43 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:41:43 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:41:43 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:41:43 --> Could not find the language line "now"
+ERROR - 2021-09-11 11:12:17 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:12:17 --> Query error: Duplicate entry 'bhanwarlal' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'bhanwarlal', '2021-09-11 11:12:17', '117731', 1)
+ERROR - 2021-09-11 11:12:17 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:12:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:14:20 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:14:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:45:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:46:07 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:46:07 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:46:11 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:46:11 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:46:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:16:20 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:16:20 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:16:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:16:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:47:13 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:14 --> Could not find the language line "apply"
+ERROR - 2021-09-11 05:47:14 --> Could not find the language line "now"
+ERROR - 2021-09-11 05:47:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:47:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:47:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:18:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:21:03 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:21:03 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:21:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:21:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:23:56 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:23:56 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:23:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:55:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:55:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:55:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:27:26 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:27:26 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:27:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 05:59:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:59:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 05:59:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:31:29 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:31:29 --> Query error: Duplicate entry 'surendrasingh' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '3', 'd41d8cd98f00b204e9800998ecf8427e', '', 'surendrasingh', '2021-09-11 11:31:29', '117731', 1)
+ERROR - 2021-09-11 11:31:29 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:31:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:31:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:34:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:35:13 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:35:13 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:35:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:05:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:05:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:05:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:36:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:38:08 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:38:08 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:38:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:38:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:08:40 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:39:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "number"
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 11:40:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "bank"
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "bank"
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "number"
+ERROR - 2021-09-11 11:40:51 --> Could not find the language line "number"
+ERROR - 2021-09-11 11:41:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:41:23 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 11:41:23 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 11:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:11:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:11:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:11:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:11:58 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:11:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:12:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:13:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:43:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:14:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:45:05 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:45:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:45:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:45:52 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:01 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 06:16:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:46:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:16:28 --> 404 Page Not Found: ../modules/student/controllers/Student/0
+ERROR - 2021-09-11 11:46:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:46:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:46:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:46:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:46:46 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:10 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:12 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 11:47:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 11:47:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:18:20 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:18:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:18:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:19:23 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:19:33 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:19:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:19:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:19:45 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:19:45 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:19:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:19:52 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:20:09 --> Could not find the language line "galleries"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:50:11 --> Could not find the language line "receive"
+ERROR - 2021-09-11 06:20:14 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:20:14 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:20:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:21:17 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:21:17 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:21:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:21:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:22:05 --> Could not find the language line "galleries"
+ERROR - 2021-09-11 06:23:18 --> Could not find the language line "galleries"
+ERROR - 2021-09-11 06:23:23 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:23:28 --> Could not find the language line "holidays"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:54:37 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:49 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:49 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:50 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:57:58 --> Could not find the language line "receive"
+ERROR - 2021-09-11 06:28:08 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:28:08 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:28:09 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:28:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:59:04 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:04 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "postal"
+ERROR - 2021-09-11 11:59:05 --> Could not find the language line "receive"
+ERROR - 2021-09-11 06:29:42 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:29:42 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:29:43 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:30:16 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:30:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:30:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:00:54 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:01:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:01:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:01:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:31:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:02:51 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:06 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 851
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 859
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 870
+ERROR - 2021-09-11 12:03:14 --> Severity: Notice --> Trying to get property 'role_id' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\helpers\util_helper.php 878
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:33:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 12:03:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:19 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:20 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:25 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:36:29 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:36:30 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:37:58 --> Could not find the language line "visit"
+ERROR - 2021-09-11 12:08:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:08:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:08:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:56 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:38:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:39:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:09:08 --> Could not find the language line ""
+ERROR - 2021-09-11 12:09:08 --> Could not find the language line ""
+ERROR - 2021-09-11 12:09:08 --> Could not find the language line ""
+ERROR - 2021-09-11 12:09:08 --> Could not find the language line ""
+ERROR - 2021-09-11 12:09:08 --> Could not find the language line ""
+ERROR - 2021-09-11 06:39:20 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:39:20 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:39:21 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:40:33 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:40:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:40:34 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:40:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:37 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:41:48 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:41:50 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:41:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:42:59 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:42:59 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:43:21 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:21 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:43:33 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:33 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:34 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:43:37 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:40 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:41 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:47 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:43:47 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:43:52 --> Could not find the language line "holidays"
+ERROR - 2021-09-11 06:43:53 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:43:57 --> Could not find the language line "galleries"
+ERROR - 2021-09-11 06:46:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:48:03 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:48:04 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:48:04 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:48:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:48:56 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:48:56 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:16 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:49:16 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:21 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:49:21 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:49:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:49:43 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:20:06 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 12:20:06 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 12:20:06 --> Query error: Duplicate entry 'jethusingh' for key 'email' - Invalid query: INSERT INTO `users` (`school_id`, `role_id`, `password`, `temp_password`, `username`, `created_at`, `created_by`, `status`) VALUES ('172', '4', 'e10adc3949ba59abbe56e057f20f883e', 'MTIzNDU2', 'jethusingh', '2021-09-11 12:20:06', '117731', 1)
+ERROR - 2021-09-11 06:50:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:20:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:50:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:50:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:50:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:21:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:21:50 --> Could not find the language line ""
+ERROR - 2021-09-11 12:21:50 --> Could not find the language line ""
+ERROR - 2021-09-11 12:21:50 --> Could not find the language line ""
+ERROR - 2021-09-11 12:21:50 --> Could not find the language line ""
+ERROR - 2021-09-11 12:21:50 --> Could not find the language line ""
+ERROR - 2021-09-11 06:52:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:53:10 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:53:10 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:53:26 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:53:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:54:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:54:51 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:54:51 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:55:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:55:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:25:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:56:34 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:56:45 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:56:45 --> Could not find the language line "now"
+ERROR - 2021-09-11 12:26:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 06:56:57 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:57:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:57:03 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:57:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:57:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:57:03 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:57:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:57:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:57:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:57:49 --> Could not find the language line "events"
+ERROR - 2021-09-11 06:58:27 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:58:27 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:58:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:58:28 --> Could not find the language line "apply"
+ERROR - 2021-09-11 06:58:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 06:58:28 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:28:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:29:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:29:13 --> Could not find the language line "registration"
+ERROR - 2021-09-11 06:59:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:59:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 06:59:44 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:30:09 --> Could not find the language line "academic_school"
+ERROR - 2021-09-11 12:30:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:30:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:30:09 --> Could not find the language line "logo"
+ERROR - 2021-09-11 12:30:09 --> Could not find the language line "logo"
+ERROR - 2021-09-11 12:30:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:14 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:00:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:00:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:00:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:28 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:00:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:50 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:00:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:52 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:00:52 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:00:54 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "gud"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:01:10 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:01:12 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:01:12 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:01:12 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:01:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:31:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:01:22 --> Could not find the language line "visit"
+ERROR - 2021-09-11 12:31:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:02:01 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:02:01 --> Could not find the language line "now"
+ERROR - 2021-09-11 12:32:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:32:14 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:32:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:02:35 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:02:35 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:02:35 --> Could not find the language line "now"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:32:53 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 07:02:55 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:02:55 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:02:55 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:02:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:03:21 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:03:21 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:03:21 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:03:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:33:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:33:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:33:59 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:34:12 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 12:34:12 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 12:34:12 --> Could not find the language line "sell"
+ERROR - 2021-09-11 12:34:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 12:34:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 12:34:34 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:34:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 12:34:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 12:34:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 12:34:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 12:34:57 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 12:34:57 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 12:34:57 --> Could not find the language line "sell"
+ERROR - 2021-09-11 12:34:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 12:34:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 12:35:02 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:35:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 12:35:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 12:35:08 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:09 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 12:35:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 12:35:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:35:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:05:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:36:51 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 12:36:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:37:22 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 12:37:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:37:40 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:37:40 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:37:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:38:00 --> Could not find the language line ""
+ERROR - 2021-09-11 12:38:00 --> Could not find the language line ""
+ERROR - 2021-09-11 12:38:00 --> Could not find the language line ""
+ERROR - 2021-09-11 12:38:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:38:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:41:16 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 12:41:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:41:18 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 12:41:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 12:41:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 12:41:23 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:41:24 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:25 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:41:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 12:41:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 12:41:27 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 12:41:27 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 12:41:27 --> Could not find the language line "sell"
+ERROR - 2021-09-11 12:41:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 12:41:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 12:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 12:41:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 12:41:31 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 12:41:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 12:41:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 12:41:38 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 12:41:38 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 12:41:38 --> Could not find the language line "sell"
+ERROR - 2021-09-11 12:41:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 12:41:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:41 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:41:44 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:41:49 --> Could not find the language line "academic_school"
+ERROR - 2021-09-11 12:41:49 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:41:49 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:41:49 --> Could not find the language line "logo"
+ERROR - 2021-09-11 12:41:49 --> Could not find the language line "logo"
+ERROR - 2021-09-11 12:42:06 --> Could not find the language line "registration"
+ERROR - 2021-09-11 12:42:39 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:42:39 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:42:46 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:43:23 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 12:43:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "postal"
+ERROR - 2021-09-11 12:44:44 --> Could not find the language line "receive"
+ERROR - 2021-09-11 12:45:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:47:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:47:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:47:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:47:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:47:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:47:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:49:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:49:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:49:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:49:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:49:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:49:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:20:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:50:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:21:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:21:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:51:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:51:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:52:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:52:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:53:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:53:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:54:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:54:23 --> Severity: Warning --> rand() expects exactly 2 parameters, 1 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\controllers\Student.php 927
+ERROR - 2021-09-11 12:54:23 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 12:54:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:55:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:55:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:55:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:55:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:55:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:56:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:56:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:56:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:57:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 12:57:36 --> Could not find the language line ""
+ERROR - 2021-09-11 12:58:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:58:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:58:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\views\index.php 364
+ERROR - 2021-09-11 07:29:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:29:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 12:59:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 12:59:24 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 12:59:32 --> Could not find the language line "confirm"
+ERROR - 2021-09-11 12:59:32 --> Could not find the language line "confirm"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:29:37 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:29:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:00:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:00:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:30:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:03 --> Could not find the language line "visit"
+ERROR - 2021-09-11 07:31:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:31:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:05:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:05:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:06:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:06:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:08:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:08:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 07:39:03 --> Could not find the language line "apply"
+ERROR - 2021-09-11 07:39:03 --> Could not find the language line "now"
+ERROR - 2021-09-11 07:39:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 07:39:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:10:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:10:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:10:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:12:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:12:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:13:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:13:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:13:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:13:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:14:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:14:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:14:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:14:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:15:23 --> Could not find the language line "registration"
+ERROR - 2021-09-11 13:15:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:15:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:16:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:16:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:16:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:16:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:17:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:17:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:18:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 13:18:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 13:18:18 --> Could not find the language line ""
+ERROR - 2021-09-11 13:18:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 169
+ERROR - 2021-09-11 13:18:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 280
+ERROR - 2021-09-11 13:18:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 169
+ERROR - 2021-09-11 13:18:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 280
+ERROR - 2021-09-11 13:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 169
+ERROR - 2021-09-11 13:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 280
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "body"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "align"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "logo"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "body"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "body"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "body"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:33 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "body"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "colot"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "colot"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "bottom_text"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "align"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "logo"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "border"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "top"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "value"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "font_size"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "bottom"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "color"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "align"
+ERROR - 2021-09-11 13:19:43 --> Could not find the language line "logo"
+ERROR - 2021-09-11 13:21:40 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:21:40 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:22:08 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:22:08 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:22:12 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:22:12 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:22:54 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:22:54 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:23:02 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:23:02 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:23:15 --> Could not find the language line "apply"
+ERROR - 2021-09-11 13:23:15 --> Could not find the language line "used"
+ERROR - 2021-09-11 13:24:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\teacher\views\alumni.php 275
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 13:25:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:25:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:27:01 --> Could not find the language line "amont"
+ERROR - 2021-09-11 13:27:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 13:28:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:28:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:29:45 --> Could not find the language line "amont"
+ERROR - 2021-09-11 13:29:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:18 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:01:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:33:04 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 13:33:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 13:33:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 13:33:05 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 13:33:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 13:33:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 13:33:35 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 13:33:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 13:33:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 08:10:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:10:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:11:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:11:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:11:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:42:33 --> Could not find the language line "select_student_alert"
+ERROR - 2021-09-11 13:42:33 --> Could not find the language line "bulk_pass_confirm"
+ERROR - 2021-09-11 13:43:31 --> Could not find the language line "manage_alumni_employee"
+ERROR - 2021-09-11 13:43:37 --> Could not find the language line "manage_alumni_employee"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:13:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:13:43 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:13:49 --> Could not find the language line "apply"
+ERROR - 2021-09-11 08:13:49 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:14:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:44:40 --> Could not find the language line "manage_alumni_employee"
+ERROR - 2021-09-11 13:44:53 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 13:44:53 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 13:44:53 --> Could not find the language line "sell"
+ERROR - 2021-09-11 13:44:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 13:44:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 13:45:01 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 13:45:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 13:45:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 13:46:12 --> Could not find the language line ""
+ERROR - 2021-09-11 13:46:12 --> Could not find the language line ""
+ERROR - 2021-09-11 13:46:12 --> Could not find the language line ""
+ERROR - 2021-09-11 13:46:40 --> Could not find the language line ""
+ERROR - 2021-09-11 13:46:40 --> Could not find the language line ""
+ERROR - 2021-09-11 13:46:40 --> Could not find the language line ""
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:16:57 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:16:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:47:09 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:09 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:09 --> Could not find the language line ""
+ERROR - 2021-09-11 08:17:09 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:47:14 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:14 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:14 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:34 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:34 --> Could not find the language line ""
+ERROR - 2021-09-11 13:47:34 --> Could not find the language line ""
+ERROR - 2021-09-11 08:18:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:18:24 --> Could not find the language line "apply"
+ERROR - 2021-09-11 08:18:24 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:18:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:18:45 --> Could not find the language line "notices"
+ERROR - 2021-09-11 08:18:54 --> Could not find the language line "apply"
+ERROR - 2021-09-11 08:18:54 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:18:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:19:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "apply"
+ERROR - 2021-09-11 08:20:25 --> Could not find the language line "now"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 13:50:43 --> Could not find the language line "option"
+ERROR - 2021-09-11 08:20:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:21:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 08:24:20 --> Could not find the language line "visit"
+ERROR - 2021-09-11 13:54:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 13:54:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 08:24:21 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:54:21 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 08:24:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:26:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "show_discount"
+ERROR - 2021-09-11 13:56:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\accounting\views\invoice\index.php 300
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "bank"
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:56:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 13:57:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\accountledgers\index.php 216
+ERROR - 2021-09-11 13:57:40 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 13:57:52 --> Could not find the language line "amont"
+ERROR - 2021-09-11 13:57:53 --> Could not find the language line "number"
+ERROR - 2021-09-11 08:41:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:41:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 08:41:21 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:13:22 --> Could not find the language line "method"
+ERROR - 2021-09-11 14:13:22 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 14:13:22 --> Could not find the language line "method"
+ERROR - 2021-09-11 08:47:21 --> 404 Page Not Found: Auth/assets
+ERROR - 2021-09-11 08:49:51 --> 404 Page Not Found: Auth/assets
+ERROR - 2021-09-11 14:22:56 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:22:56 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:22:56 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:22:56 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:19 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:19 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:19 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:19 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:34 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:34 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:34 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:34 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:47 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:24:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 14:25:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 14:25:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:55 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:25:58 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 14:26:00 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:54 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:09:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:09:57 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:18:21 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "apply"
+ERROR - 2021-09-11 09:18:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 09:24:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:24:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:25:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:02:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 15:02:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 15:05:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\teacher\views\lecture\index.php 190
+ERROR - 2021-09-11 15:05:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\teacher\views\lecture\index.php 252
+ERROR - 2021-09-11 15:05:23 --> Could not find the language line "add_lecture_instruction"
+ERROR - 2021-09-11 15:06:40 --> Could not find the language line "study"
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 192
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:40 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Could not find the language line "study"
+ERROR - 2021-09-11 15:06:41 --> Could not find the language line "study"
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 192
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Severity: Warning --> in_array() expects parameter 2 to be array, bool given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\material\index.php 219
+ERROR - 2021-09-11 15:06:41 --> Could not find the language line "study"
+ERROR - 2021-09-11 15:11:01 --> Severity: Warning --> implode(): Invalid arguments passed C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\attendance\views\teacher\index.php 97
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:24 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:49:28 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:49:30 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:50:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:21:55 --> Could not find the language line "registration"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 09:53:13 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 09:53:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:24:05 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:24:26 --> Could not find the language line "registration"
+ERROR - 2021-09-11 09:56:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:21 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:01:23 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:33:38 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:33:48 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:34:35 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:34:35 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:34:48 --> Could not find the language line "academic_school"
+ERROR - 2021-09-11 15:34:48 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:34:48 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:34:48 --> Could not find the language line "logo"
+ERROR - 2021-09-11 15:34:48 --> Could not find the language line "logo"
+ERROR - 2021-09-11 15:35:07 --> Severity: Warning --> implode(): Invalid arguments passed C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\attendance\views\employee\index.php 152
+ERROR - 2021-09-11 15:36:01 --> Could not find the language line "registration"
+ERROR - 2021-09-11 10:11:22 --> Could not find the language line "apply"
+ERROR - 2021-09-11 10:11:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:11:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> Could not find the language line "visit"
+ERROR - 2021-09-11 10:11:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:11:28 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:11:31 --> Could not find the language line "apply"
+ERROR - 2021-09-11 10:11:31 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:11:58 --> Could not find the language line "apply"
+ERROR - 2021-09-11 10:11:58 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:12:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:12:15 --> Could not find the language line "apply"
+ERROR - 2021-09-11 10:12:15 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:12:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:42:57 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 15:42:57 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 15:42:57 --> Could not find the language line "sell"
+ERROR - 2021-09-11 15:42:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 15:42:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 15:42:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 281
+ERROR - 2021-09-11 15:42:59 --> Could not find the language line "issue_price"
+ERROR - 2021-09-11 15:42:59 --> Could not find the language line "issue_type"
+ERROR - 2021-09-11 15:42:59 --> Could not find the language line "sell"
+ERROR - 2021-09-11 15:42:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 233
+ERROR - 2021-09-11 15:42:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 246
+ERROR - 2021-09-11 15:42:59 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\issueitem\index.php 281
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Declaration of Item_model::get_list($school_id = NULL) should be compatible with MY_Model::get_list($table_name, $index_array, $columns = NULL, $limit = NULL, $offset = 0, $order_field = NULL, $order_type = NULL) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\models\Item_model.php 12
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 152
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 186
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 209
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 268
+ERROR - 2021-09-11 15:43:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemstock\index.php 281
+ERROR - 2021-09-11 15:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 15:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 15:44:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 134
+ERROR - 2021-09-11 15:44:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\views\itemcategory\index.php 146
+ERROR - 2021-09-11 15:45:01 --> Could not find the language line "mark_total"
+ERROR - 2021-09-11 15:45:01 --> Could not find the language line "mark_obtain"
+ERROR - 2021-09-11 15:45:01 --> Could not find the language line "option"
+ERROR - 2021-09-11 15:45:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:45:38 --> Could not find the language line "mark_total"
+ERROR - 2021-09-11 15:45:38 --> Could not find the language line "mark_obtain"
+ERROR - 2021-09-11 15:45:38 --> Could not find the language line "option"
+ERROR - 2021-09-11 15:45:51 --> Could not find the language line ""
+ERROR - 2021-09-11 15:45:51 --> Could not find the language line ""
+ERROR - 2021-09-11 15:45:51 --> Could not find the language line ""
+ERROR - 2021-09-11 15:47:05 --> Could not find the language line "registration"
+ERROR - 2021-09-11 10:17:39 --> Could not find the language line "apply"
+ERROR - 2021-09-11 10:17:39 --> Could not find the language line "now"
+ERROR - 2021-09-11 10:17:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 15:48:26 --> Could not find the language line ""
+ERROR - 2021-09-11 15:48:26 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\teacher\index.php 127
+ERROR - 2021-09-11 10:18:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:49:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 15:49:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 10:19:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 15:49:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\card\views\employee\index.php 129
+ERROR - 2021-09-11 10:19:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 16:00:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:00:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:01:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:01:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:01:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:01:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:10:47 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:10:47 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:10:47 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:10:47 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:10:47 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:11:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:11:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:12:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 169
+ERROR - 2021-09-11 16:12:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:12:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:15:00 --> Could not find the language line "mark_total"
+ERROR - 2021-09-11 16:15:00 --> Could not find the language line "mark_obtain"
+ERROR - 2021-09-11 16:15:00 --> Could not find the language line "option"
+ERROR - 2021-09-11 16:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:16:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:16:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:16:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:22:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:22:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:22:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:22:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:22:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:04 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 308
+ERROR - 2021-09-11 16:23:48 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 16:23:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:23:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:24:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:24:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 10:55:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 10:56:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 16:27:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:27:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:28:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:28:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 16:28:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:28:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:29:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:29:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:29:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\alumni.php 169
+ERROR - 2021-09-11 16:30:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:30:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:31:38 --> Could not find the language line "registration"
+ERROR - 2021-09-11 16:37:37 --> Severity: Warning --> mail(): SMTP server response: 503 This mail server requires authentication when attempting to send to a non-local e-mail address. Please check your mail client settings or contact your administrator to verify that the domain or address is defined for this server. C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Model.php 441
+ERROR - 2021-09-11 16:37:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:37:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:37:54 --> Could not find the language line "registration"
+ERROR - 2021-09-11 16:39:16 --> Severity: Warning --> A non-numeric value encountered C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\student\models\Student_Model.php 362
+ERROR - 2021-09-11 16:40:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 16:40:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:38 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:43 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:41:44 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:41:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:41:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:20 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:27 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:27 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:27 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:42:27 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "method"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 16:43:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 16:43:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 16:43:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:44:28 --> Could not find the language line "registration"
+ERROR - 2021-09-11 16:44:39 --> Could not find the language line "registration"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:45:36 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:28 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:28 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:29 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:34 --> Could not find the language line "dispatch"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:47:42 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:34 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:34 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "postal"
+ERROR - 2021-09-11 16:49:35 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:49:40 --> Could not find the language line "receive"
+ERROR - 2021-09-11 16:50:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:50:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:50:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:50:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 16:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:51:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:51:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 16:51:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 16:51:44 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 16:51:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:51:58 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:51:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:51:58 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:51:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:51:58 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:51:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:52:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:52:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:52:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:52:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:52:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:52:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:52:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:52:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:52:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 16:52:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 16:53:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 11:25:37 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:25:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:25:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 16:58:46 --> Could not find the language line "registration"
+ERROR - 2021-09-11 11:31:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:31:32 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:31:32 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:39 --> Could not find the language line "visit"
+ERROR - 2021-09-11 11:58:44 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:58:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 11:59:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 17:29:19 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:29:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:29:27 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:29:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:29:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:29:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:30:10 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:30:10 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:30:54 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:30:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:31:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:31:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:31:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:31:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:31:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:31:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:31:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:31:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:31:52 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:31:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:02:14 --> Could not find the language line "apply"
+ERROR - 2021-09-11 12:02:14 --> Could not find the language line "now"
+ERROR - 2021-09-11 12:02:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 17:32:38 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:32:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:32:50 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:32:50 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:32:54 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:33:25 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:33:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:33:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:33:44 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:33:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:33:58 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:33:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:34:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:34:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:34:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:35:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:37:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:37:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:37:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:37:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:38:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:38:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:38:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:38:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:38:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:41:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:42:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:42:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:42:20 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:42:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:55 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:55 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:42:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:42:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:43:21 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:43:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:43:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:43:54 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:43:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:44:02 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:44:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:44:07 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:44:26 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:44:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:44:55 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:44:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:36 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:36 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:45:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:45:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:46:04 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:46:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:46:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:46:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:46:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:46:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:46:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:47:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:47:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:47:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:47:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:47:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:47:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:48:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:48:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:37 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:48:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:48:58 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:48:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:49:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:49:20 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:49:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:49:42 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:49:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:49:42 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:49:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:49:43 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:49:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:03 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:03 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:50:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:50:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:50:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:43 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:50:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:50:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:50:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:51:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:51:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:51:16 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:51:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:51:16 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:51:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:51:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:51:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:51:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:52:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:52:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:52:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:53:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:53:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:54:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:54:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:54:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:54:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:54:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:54:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:54:23 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:54:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:54:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:56:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 17:56:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:57:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 17:57:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 17:57:18 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:57:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:36 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:36 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:36 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:49 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:49 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:57:49 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:57:49 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "bank"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:58:09 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:58:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 17:58:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:00 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:59:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:07 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 17:59:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:29 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:29 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 17:59:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 17:59:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:00:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:00:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:00:05 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:00:28 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:00:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:00:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:00:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:00:43 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:00:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:00:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:01:05 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:01:05 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:01:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:01:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 12:31:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:01:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:37 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:01:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:01:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:01:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:01:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:01:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:02:24 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:02:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:02:47 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:02:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:02:53 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:02:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:15 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:15 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:17 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:03:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:03:43 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:03:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:03:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:03:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:03:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:03:49 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:04:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:04:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:04:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:05:13 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:05:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:05:18 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:05:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:05:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:05:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:06:31 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:06:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:06:33 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:06:50 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:06:50 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:06:56 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:06:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:11 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:11 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:12 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:12 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:26 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:28 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:28 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:30 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:07:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:07:45 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:07:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:07:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:47 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:07:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:07:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:08:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:08:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:08:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:16 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:08:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:08:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:08:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:08:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:09:06 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:09:06 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:09:07 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:09:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:09:07 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:09:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:09:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:09:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:10:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:10:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:10:30 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:10:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:10:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:10:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:10:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:11:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:11:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:11:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:25 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:11:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:32 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:11:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:11:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:11:53 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:11:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:53 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:11:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:11:53 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:11:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:12:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:04 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:12:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:04 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:12:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:12:39 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:12:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:12:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:12:49 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:12:49 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:13:14 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:13:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:13:24 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:13:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:13:59 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:13:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:13:59 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:13:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:13:59 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:13:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:14:07 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:14:07 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:14:11 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:14:11 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:14:11 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:14:11 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:14:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:14:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:14:41 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:15:57 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:15:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:04 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:16:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:16:52 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:16:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:17:18 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:17:18 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:17:21 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:17:37 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:17:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:17:55 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:17:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:18:12 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:18:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:18:12 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:18:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:18:12 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:18:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:18:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:18:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:18:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:18:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:19:21 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:19:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:19:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:19:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:19:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:19:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:20:13 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:20:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:20:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:20:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:20:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:20:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:20:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:20:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:20:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:20:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:21:04 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:21:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:21:05 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:21:05 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:21:36 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:21:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:21:40 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:21:57 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:21:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:22:29 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:22:29 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:22:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:22:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:22:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:22:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:22:52 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:22:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:22:59 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:22:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:23:04 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:23:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:23:04 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:23:04 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:23:27 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:23:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:23:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:23:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:23:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:26:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:26:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:26:43 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:26:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:26:44 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:26:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:26:44 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:26:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:27:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:27:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:27:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:27:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:27:09 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:27:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:27:33 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:27:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:27:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:28:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:28:01 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:28:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:28:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:28:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:28:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:28:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:28:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:28:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:29:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:29:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:29:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:29:06 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:29:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:29:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:30:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:30:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:30:44 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:30:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:30:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:30:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:31:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:31:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:31:59 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:31:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:32:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:32:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:33:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:33:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:33:41 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:41 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:33:42 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:33:42 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:33:55 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:33:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:33:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:33:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:34:47 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:34:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:34:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:35:23 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:35:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:35:47 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:35:47 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:35:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:35:58 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:36:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:36:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:36:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:36:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:37:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:37:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:37:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:30 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:37:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:37:55 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:37:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:37:59 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:38:28 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:38:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:39:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:39:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:39:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:39:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:41:14 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:41:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:41:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:41:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:41:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:41:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:41:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:41:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:42:53 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:42:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:42:57 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:42:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:42:58 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:42:58 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:43:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:43:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:43:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:44:19 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:44:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:44:39 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:44:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:18 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:18 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:18 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:31 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:34 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:34 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:45:35 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:45:35 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:46:22 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:46:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:46:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:47:54 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:47:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:48:39 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:48:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:49:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:49:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:49:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:49:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:49:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:49:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:49:35 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:49:35 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:49:37 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:49:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:50:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:50:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:50:05 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:50:23 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:50:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:50:34 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:50:34 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:17 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:51:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:51:46 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:51:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:51:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:10 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:52:10 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:17 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:52:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:32 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:32 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:32 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:39 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:39 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:48 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:52:48 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:52:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:53:20 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:53:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:53:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:53:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:53:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:54:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:54:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:54:38 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:54:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:54:40 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:54:55 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:54:55 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:55:04 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:55:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:55:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:55:28 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:55:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:45 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:52 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:55:56 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:55:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:56:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:56:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:56:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:57:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:57:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 18:57:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:57:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:57:37 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:57:37 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:57:40 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:57:56 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:57:56 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:03 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:58:03 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:20 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:58:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:20 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:58:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:20 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:58:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:37 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:58:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:58:38 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 18:58:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "method"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "bank"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:59:20 --> Could not find the language line "number"
+ERROR - 2021-09-11 18:59:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 18:59:24 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 18:59:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 18:59:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 18:59:41 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 18:59:41 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:00:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:00:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 13:30:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:01:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 19:01:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:01:48 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:01:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:02:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:02:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:02 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:02:02 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:02:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:27 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:02:27 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:02:42 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:02:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:02:45 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:03:17 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:03:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:01 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:22 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:23 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:05:23 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:05:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:05:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 19:05:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 19:05:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:06:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 19:06:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:06:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:06:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 664
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:06:17 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:06:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:06:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:06:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 19:06:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:06:51 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:06:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:06:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:06:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:06:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:12 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:07:19 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:07:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:07:22 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:25 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:31 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:07:31 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:38 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:07:38 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:07:40 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:07:40 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:07:42 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:07:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:07:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:08:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:08:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:08:14 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:08:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:08:14 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:08:14 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:08:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:08:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:08:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:11:09 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:11:09 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:11:16 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:11:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:11:35 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:11:35 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:11:35 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:11:35 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:11:35 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:11:35 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:12:48 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:12:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:12:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:12:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:12:51 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:12:51 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:13:08 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:13:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:13:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:13:29 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:13:29 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:13:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:13:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:00 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:13 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:13 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:14:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:14:34 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:14:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:14:37 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:44 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:14:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:14:53 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:14:53 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:08 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:08 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:16 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:18 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:18 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:19 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:15:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:15:32 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:15:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:15:34 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:15:44 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:15:44 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:00 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:16:00 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:17 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:17 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:17 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:17 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:30 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:30 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:32 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:32 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:16:32 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:16:43 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:16:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:16:48 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:01 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:17:01 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:26 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:17:26 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:46 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:46 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:54 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:54 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:57 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:17:57 --> Severity: Warning --> cal_days_in_month() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\controllers\Payment.php 776
+ERROR - 2021-09-11 19:17:57 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "method"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "bank"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:18:16 --> Could not find the language line "number"
+ERROR - 2021-09-11 19:18:16 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\payroll\views\payment\index.php 400
+ERROR - 2021-09-11 19:18:19 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:18:25 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:18:25 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:18:36 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:18:36 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 19:18:42 --> Could not find the language line "registration"
+ERROR - 2021-09-11 19:18:52 --> Could not find the language line "allowance"
+ERROR - 2021-09-11 19:18:52 --> Could not find the language line "deduction"
+ERROR - 2021-09-11 13:49:56 --> Query error: Column 'school_id' cannot be null - Invalid query: INSERT INTO `activity_logs` (`school_id`, `user_id`, `role_id`, `name`, `phone`, `email`, `ip_address`, `user_agent`, `activity`, `status`, `created_at`, `created_by`) VALUES (NULL, 0, 0, NULL, NULL, NULL, '223.233.112.220', 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Has been logged out', 1, '2021-09-11 13:49:56', 0)
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:02 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:08 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:10 --> Could not find the language line "visit"
+ERROR - 2021-09-11 14:05:20 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:31 --> 404 Page Not Found: user/Login/index
+ERROR - 2021-09-11 14:05:32 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:39 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:05:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:33 --> 404 Page Not Found: user/Allroleinfo/index
+ERROR - 2021-09-11 14:06:37 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:41 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:06:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:13 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:13 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:42 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:48 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:57 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:07:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:03 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:09 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:36 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:08:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:02 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:13 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:14 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:27 --> 404 Page Not Found: user/GetAllNicknames/index
+ERROR - 2021-09-11 14:09:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:09:32 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:37:11 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 14:46:34 --> Could not find the language line "apply"
+ERROR - 2021-09-11 14:46:34 --> Could not find the language line "now"
+ERROR - 2021-09-11 15:03:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:28 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:19:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:19:39 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:21:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:21:42 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:12 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:22:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:23:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:23:44 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:33:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:05 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:35:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:36:11 --> Could not find the language line "visit"
+ERROR - 2021-09-11 21:10:00 --> Could not find the language line "registration"
+ERROR - 2021-09-11 15:40:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:40:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:40:12 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:41:59 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:43:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:43:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 15:43:05 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 21:15:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 21:15:54 --> Could not find the language line "number"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:47:48 --> Could not find the language line "visit"
+ERROR - 2021-09-11 15:48:40 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 21:19:04 --> Could not find the language line "method"
+ERROR - 2021-09-11 21:19:04 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 21:19:04 --> Could not find the language line "method"
+ERROR - 2021-09-11 21:20:09 --> Could not find the language line "method"
+ERROR - 2021-09-11 21:20:09 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 21:20:09 --> Could not find the language line "method"
+ERROR - 2021-09-11 16:12:41 --> Could not find the language line "apply"
+ERROR - 2021-09-11 16:12:41 --> Could not find the language line "now"
+ERROR - 2021-09-11 21:44:14 --> Could not find the language line "registration"
+ERROR - 2021-09-11 16:15:13 --> 404 Page Not Found: import/School/index
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:31 --> Could not find the language line "visitor"
+ERROR - 2021-09-11 21:45:54 --> Could not find the language line "registration"
+ERROR - 2021-09-11 21:46:09 --> Could not find the language line "academic_school"
+ERROR - 2021-09-11 21:46:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 21:46:09 --> Could not find the language line "registration"
+ERROR - 2021-09-11 21:46:09 --> Could not find the language line "logo"
+ERROR - 2021-09-11 21:46:09 --> Could not find the language line "logo"
+ERROR - 2021-09-11 21:47:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 150
+ERROR - 2021-09-11 21:47:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\hrm\views\employee\index.php 231
+ERROR - 2021-09-11 21:49:23 --> Unable to delete cache file for academic/classes/index
+ERROR - 2021-09-11 21:50:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\modules\academic\views\syllabus\index.php 197
+ERROR - 2021-09-11 21:55:28 --> Could not find the language line ""
+ERROR - 2021-09-11 21:55:28 --> Could not find the language line ""
+ERROR - 2021-09-11 21:55:28 --> Could not find the language line ""
+ERROR - 2021-09-11 16:26:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 16:26:04 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 21:58:18 --> Could not find the language line "number"
+ERROR - 2021-09-11 21:59:26 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:00:02 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:00:32 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:01:06 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:01:44 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:02:24 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:02:52 --> Could not find the language line "number"
+ERROR - 2021-09-11 22:18:17 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 80
+ERROR - 2021-09-11 22:21:00 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 80
+ERROR - 2021-09-11 22:21:02 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 80
+ERROR - 2021-09-11 22:21:15 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 83
+ERROR - 2021-09-11 22:23:09 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:11 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:12 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:34 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:35 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:36 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:37 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:23:46 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 83
+ERROR - 2021-09-11 22:24:06 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:06 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:06 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 83
+ERROR - 2021-09-11 22:24:35 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:35 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:35 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:24:36 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:36 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:36 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:24:37 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:37 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:37 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:24:39 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:39 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:39 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:24:40 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:24:40 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:24:40 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:25:12 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:25:12 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:25:12 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:25:16 --> Severity: Notice --> Trying to get property 'enable_rtl' of non-object C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\core\MY_Controller.php 91
+ERROR - 2021-09-11 22:25:16 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 146
+ERROR - 2021-09-11 22:25:16 --> Severity: Notice --> Object of class stdClass could not be converted to int C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 178
+ERROR - 2021-09-11 22:26:07 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:26:10 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:26:16 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:26:19 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 81
+ERROR - 2021-09-11 22:26:35 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 82
+ERROR - 2021-09-11 22:27:47 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:27:47 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 85
+ERROR - 2021-09-11 22:28:22 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:28:22 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 85
+ERROR - 2021-09-11 22:28:23 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:28:23 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 85
+ERROR - 2021-09-11 22:28:25 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:28:25 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 85
+ERROR - 2021-09-11 22:28:41 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:28:41 --> Severity: error --> Exception: Call to undefined function generate_school_code() C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 85
+ERROR - 2021-09-11 22:28:52 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 148
+ERROR - 2021-09-11 22:32:26 --> Severity: error --> Exception: Call to a member function insert() on null C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 176
+ERROR - 2021-09-11 22:43:10 --> Severity: Warning --> strtotime() expects at least 1 parameter, 0 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 187
+ERROR - 2021-09-11 22:43:14 --> Severity: Warning --> strtotime() expects at least 1 parameter, 0 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 187
+ERROR - 2021-09-11 22:43:24 --> Severity: Warning --> strtotime() expects at least 1 parameter, 0 given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 187
+ERROR - 2021-09-11 22:43:35 --> Could not find the language line "account_group_id"
+ERROR - 2021-09-11 22:46:10 --> Severity: Warning --> strtotime() expects parameter 2 to be int, string given C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 189
+ERROR - 2021-09-11 22:48:19 --> Severity: error --> Exception: Call to a member function insert() on null C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 198
+ERROR - 2021-09-11 22:48:21 --> Severity: error --> Exception: Call to a member function insert() on null C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 198
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:18:38 --> Could not find the language line "visit"
+ERROR - 2021-09-11 22:49:25 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 150
+ERROR - 2021-09-11 22:49:25 --> Severity: Notice --> Undefined property: Import_school::$student C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 201
+ERROR - 2021-09-11 22:49:25 --> Severity: error --> Exception: Call to a member function insert() on null C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 201
+ERROR - 2021-09-11 22:50:48 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 150
+ERROR - 2021-09-11 17:21:06 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:33:41 --> Could not find the language line "visit"
+ERROR - 2021-09-11 23:04:28 --> Could not find the language line "number"
+ERROR - 2021-09-11 23:05:08 --> Could not find the language line "method"
+ERROR - 2021-09-11 23:05:08 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 23:05:08 --> Could not find the language line "method"
+ERROR - 2021-09-11 17:35:24 --> 404 Page Not Found: ../modules/administrator/controllers//index
+ERROR - 2021-09-11 23:05:46 --> Could not find the language line "method"
+ERROR - 2021-09-11 23:05:46 --> Could not find the language line "tabular"
+ERROR - 2021-09-11 23:05:46 --> Could not find the language line "method"
+ERROR - 2021-09-11 23:06:57 --> Could not find the language line "number"
+ERROR - 2021-09-11 23:08:05 --> Could not find the language line "number"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:32 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:42:58 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:50 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:51 --> Could not find the language line "visit"
+ERROR - 2021-09-11 17:46:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 17:46:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 23:20:04 --> Could not find the language line "registration"
+ERROR - 2021-09-11 23:26:14 --> Severity: Notice --> Only variables should be passed by reference C:\inetpub\vhosts\vbrajasthan.in\httpdocs\application\controllers\import\Import_school.php 149
+ERROR - 2021-09-11 17:56:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 23:51:32 --> Could not find the language line "registration"
+ERROR - 2021-09-11 23:51:38 --> Could not find the language line "academic_school"
+ERROR - 2021-09-11 23:51:38 --> Could not find the language line "registration"
+ERROR - 2021-09-11 23:51:38 --> Could not find the language line "registration"
+ERROR - 2021-09-11 23:51:38 --> Could not find the language line "logo"
+ERROR - 2021-09-11 23:51:38 --> Could not find the language line "logo"
+ERROR - 2021-09-11 18:25:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:20 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:20 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:20 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:44 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:44 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:45 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:33:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:34:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:34:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 18:34:19 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:02:12 --> Could not find the language line "apply"
+ERROR - 2021-09-11 19:02:12 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:24:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:24:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:24:55 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:28:51 --> Query error: Column 'school_id' cannot be null - Invalid query: INSERT INTO `activity_logs` (`school_id`, `user_id`, `role_id`, `name`, `phone`, `email`, `ip_address`, `user_agent`, `activity`, `status`, `created_at`, `created_by`) VALUES (NULL, 0, 0, NULL, NULL, NULL, '49.36.232.27', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36', 'Has been logged out', 1, '2021-09-11 19:28:51', 0)
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "apply"
+ERROR - 2021-09-11 19:35:00 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:35:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:35:47 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:35:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:35:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:35:56 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "apply"
+ERROR - 2021-09-11 19:36:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "apply"
+ERROR - 2021-09-11 19:40:22 --> Could not find the language line "now"
+ERROR - 2021-09-11 19:41:28 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:47:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:47:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:48:00 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:49:37 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:49:37 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:49:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:24 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:50:25 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:15 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:16 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:49 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:52:53 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:54:39 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:54:39 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:54:39 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:56:01 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:59:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:59:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 19:59:35 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:22 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:29 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:01:48 --> Could not find the language line "apply"
+ERROR - 2021-09-11 20:01:48 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:05:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:05:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:05:38 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:05:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:05:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:05:59 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:06:44 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:06:44 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:06:44 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:06:44 --> Could not find the language line "apply"
+ERROR - 2021-09-11 20:06:44 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:06:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:06:50 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:06:51 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:07:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:07:31 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:07:33 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:08:07 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:08:08 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:08:10 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:09:17 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:09:26 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:09:52 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:13:18 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "apply"
+ERROR - 2021-09-11 20:20:50 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:27 --> 404 Page Not Found: /index
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "apply"
+ERROR - 2021-09-11 22:49:28 --> Could not find the language line "now"
